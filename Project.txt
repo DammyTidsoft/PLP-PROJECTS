@@ -1,0 +1,8 @@
+#Project Name: 
+Traffic Detector Application
+
+#Description
+This project will inform of a mobile application which will be used to scan for tge route 
+where cars, vehicles, lorries, trucks, tricycle, motorcycle, bicycle, etc are passing incase
+of traffic congestion. If there is traffic congestion, this application will notify the user and 
+prescribe an alternative route for the user
